@@ -18,6 +18,7 @@ public:
         cin >> a;
         cout << "The revered  of  N is" << endl;
         temp = a ; 
+          cout<<a<<endl;
           
         while (a <0)
         {
